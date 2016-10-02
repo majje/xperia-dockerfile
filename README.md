@@ -8,8 +8,8 @@ cd xperia-dockerfile
 sudo docker build -t xperia_build .
 ```
 
-# Xperia X source
-Install all the Xperia X source in `$AOSPSRC` cording to the link above.
+# Xperia source
+Install the Xperia source in `$AOSPSRC` according to the link above.
 
 # Build AOSP
 
