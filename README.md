@@ -22,3 +22,6 @@ docker run -v $AOSPSRC:/root/android -t -i xperiax_build /bin/bash
 
 It will mount the `$AOSPSRC` directory in the container at /root/repo. Changes to the repo will be visible for both the docker container and the host system.
 
+
+## Build
+Build according to the Xperia AOSP document mentioned above.
